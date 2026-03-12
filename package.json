@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "fca-mafiya": "latest",
+    "fca-aayu xwd": "latest",
     "ws": "^8.18.0"
   }
 }
